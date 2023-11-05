@@ -1,0 +1,132 @@
+
+role_030.png
+size: 726,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: true
+  xy: 467, 23
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+feng
+  rotate: false
+  xy: 2, 52
+  size: 314, 107
+  orig: 314, 107
+  offset: 0, 0
+  index: -1
+hlj
+  rotate: false
+  xy: 158, 17
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 115, 4
+  size: 21, 34
+  orig: 21, 35
+  offset: 0, 1
+  index: -1
+shuye
+  rotate: true
+  xy: 580, 2
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 71, 16
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+sz1
+  rotate: false
+  xy: 661, 67
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+taiji
+  rotate: true
+  xy: 318, 13
+  size: 146, 147
+  orig: 146, 147
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 580, 61
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: 180
+  xy: 651, 4
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+tt
+  rotate: false
+  xy: 208, 16
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 25
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+ytui
+  rotate: false
+  xy: 223, 30
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 4
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+zb
+  rotate: false
+  xy: 176, 5
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 176, 22
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 138, 16
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+ztui
+  rotate: false
+  xy: 223, 8
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

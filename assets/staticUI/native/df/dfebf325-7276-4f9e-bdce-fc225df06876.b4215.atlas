@@ -1,0 +1,20 @@
+
+cd_ok.png
+size: 212,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ring2
+  rotate: false
+  xy: 2, 2
+  size: 168, 166
+  orig: 168, 166
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 172, 130
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

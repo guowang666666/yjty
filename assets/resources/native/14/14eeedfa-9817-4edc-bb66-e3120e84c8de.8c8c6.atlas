@@ -1,0 +1,41 @@
+
+buff_bing.png
+size: 93,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingwu
+  rotate: false
+  xy: 2, 56
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+bk1
+  rotate: false
+  xy: 56, 6
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+bk2
+  rotate: false
+  xy: 56, 28
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+bk3
+  rotate: true
+  xy: 74, 8
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

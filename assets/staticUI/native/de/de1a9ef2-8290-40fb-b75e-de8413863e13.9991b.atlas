@@ -1,0 +1,111 @@
+
+xianshilibao.png
+size: 135,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dhj
+  rotate: false
+  xy: 38, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dhj1
+  rotate: false
+  xy: 79, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dhj2
+  rotate: false
+  xy: 119, 33
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 166
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: true
+  xy: 95, 239
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+jig
+  rotate: false
+  xy: 2, 89
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+jj1
+  rotate: true
+  xy: 117, 54
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+jj2
+  rotate: true
+  xy: 117, 88
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+pif1
+  rotate: true
+  xy: 2, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 95, 166
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+ss
+  rotate: false
+  xy: 62, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 80, 17
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 32
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 102, 8
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 82, 54
+  size: 110, 33
+  orig: 110, 33
+  offset: 0, 0
+  index: -1

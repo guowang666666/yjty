@@ -1,0 +1,55 @@
+
+eff_yun.png
+size: 787,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: true
+  xy: 748, 28
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+xf1
+  rotate: false
+  xy: 654, 5
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+xf2
+  rotate: false
+  xy: 150, 8
+  size: 128, 58
+  orig: 128, 58
+  offset: 0, 0
+  index: -1
+xf3
+  rotate: false
+  xy: 280, 22
+  size: 147, 44
+  orig: 147, 44
+  offset: 0, 0
+  index: -1
+xf4
+  rotate: false
+  xy: 537, 14
+  size: 115, 52
+  orig: 115, 52
+  offset: 0, 0
+  index: -1
+xf5
+  rotate: false
+  xy: 429, 8
+  size: 106, 58
+  orig: 106, 58
+  offset: 0, 0
+  index: -1
+xf6
+  rotate: false
+  xy: 2, 2
+  size: 146, 64
+  orig: 146, 64
+  offset: 0, 0
+  index: -1

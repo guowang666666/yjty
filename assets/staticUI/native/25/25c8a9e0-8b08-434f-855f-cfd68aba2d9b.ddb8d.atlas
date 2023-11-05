@@ -1,0 +1,20 @@
+
+buff_chenghao.png
+size: 256,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 187, 152
+  orig: 187, 152
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 191, 90
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1

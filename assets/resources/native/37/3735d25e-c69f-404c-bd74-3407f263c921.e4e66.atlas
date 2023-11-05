@@ -1,0 +1,20 @@
+
+eff_jiaxue.png
+size: 194,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shizi
+  rotate: false
+  xy: 167, 138
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+zhiliao
+  rotate: false
+  xy: 2, 2
+  size: 163, 161
+  orig: 163, 161
+  offset: 0, 0
+  index: -1

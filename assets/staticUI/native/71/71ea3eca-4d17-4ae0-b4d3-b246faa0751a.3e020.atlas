@@ -1,0 +1,20 @@
+
+zhuanguang.png
+size: 414,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_guang
+  rotate: false
+  xy: 2, 71
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+gs
+  rotate: false
+  xy: 274, 2
+  size: 138, 339
+  orig: 138, 339
+  offset: 0, 0
+  index: -1

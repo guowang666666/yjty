@@ -1,0 +1,20 @@
+
+bullet_14.png
+size: 47,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bqiu
+  rotate: false
+  xy: 1, 37
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

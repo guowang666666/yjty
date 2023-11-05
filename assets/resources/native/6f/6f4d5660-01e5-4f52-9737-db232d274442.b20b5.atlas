@@ -1,0 +1,69 @@
+
+buff_gongji.png
+size: 213,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gsu
+  rotate: false
+  xy: 2, 405
+  size: 151, 249
+  orig: 151, 249
+  offset: 0, 0
+  index: -1
+rr
+  rotate: false
+  xy: 2, 217
+  size: 179, 75
+  orig: 179, 75
+  offset: 0, 0
+  index: -1
+xuey1
+  rotate: true
+  xy: 111, 2
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+xuey2
+  rotate: false
+  xy: 2, 106
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+xuey3
+  rotate: false
+  xy: 2, 294
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+xuey4
+  rotate: false
+  xy: 2, 6
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+xuey5
+  rotate: true
+  xy: 126, 106
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+xuey6
+  rotate: true
+  xy: 129, 294
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+xuey7
+  rotate: true
+  xy: 155, 387
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1

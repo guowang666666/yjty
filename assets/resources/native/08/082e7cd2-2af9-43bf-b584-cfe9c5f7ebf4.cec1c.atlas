@@ -1,0 +1,20 @@
+
+zhaohuanyuanjun.png
+size: 380,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lanse_sdx
+  rotate: false
+  xy: 2, 2
+  size: 376, 91
+  orig: 376, 91
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 2, 95
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1

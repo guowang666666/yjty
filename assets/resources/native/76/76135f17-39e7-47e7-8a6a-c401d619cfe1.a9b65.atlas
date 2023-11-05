@@ -1,0 +1,27 @@
+
+buff_jiasu.png
+size: 260,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gsu
+  rotate: false
+  xy: 2, 2
+  size: 151, 249
+  orig: 151, 249
+  offset: 0, 0
+  index: -1
+rr
+  rotate: true
+  xy: 155, 72
+  size: 179, 75
+  orig: 179, 75
+  offset: 0, 0
+  index: -1
+sdx
+  rotate: true
+  xy: 155, 40
+  size: 30, 103
+  orig: 30, 103
+  offset: 0, 0
+  index: -1

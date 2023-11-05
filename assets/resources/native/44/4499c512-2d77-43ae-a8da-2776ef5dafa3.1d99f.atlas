@@ -1,0 +1,55 @@
+
+buff_fangyu.png
+size: 703,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aguang_fk
+  rotate: false
+  xy: 1, 28
+  size: 360, 132
+  orig: 360, 132
+  offset: 0, 0
+  index: -1
+dm_gs
+  rotate: false
+  xy: 361, 12
+  size: 155, 148
+  orig: 155, 148
+  offset: 0, 0
+  index: -1
+dun1
+  rotate: false
+  xy: 604, 73
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+dun2
+  rotate: false
+  xy: 659, 73
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+dun3
+  rotate: true
+  xy: 604, 20
+  size: 53, 87
+  orig: 53, 87
+  offset: 0, 0
+  index: -1
+dun4
+  rotate: true
+  xy: 516, 1
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+dun5
+  rotate: false
+  xy: 516, 73
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1

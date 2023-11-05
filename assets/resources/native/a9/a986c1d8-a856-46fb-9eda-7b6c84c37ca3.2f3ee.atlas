@@ -1,0 +1,13 @@
+
+buff_jiaoxie.png
+size: 77,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaoxie
+  rotate: false
+  xy: 2, 2
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1

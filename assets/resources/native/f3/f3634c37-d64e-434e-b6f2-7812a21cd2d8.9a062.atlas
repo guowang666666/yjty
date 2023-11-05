@@ -1,0 +1,20 @@
+
+buff_hudun.png
+size: 112,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudun
+  rotate: true
+  xy: 2, 2
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+rr
+  rotate: false
+  xy: 2, 56
+  size: 108, 222
+  orig: 108, 222
+  offset: 0, 0
+  index: -1

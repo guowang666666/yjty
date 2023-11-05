@@ -1,0 +1,76 @@
+
+role_006.png
+size: 805,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiying
+  rotate: false
+  xy: 2, 2
+  size: 295, 224
+  orig: 295, 224
+  offset: 0, 0
+  index: -1
+jiguan
+  rotate: true
+  xy: 765, 6
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 299, 2
+  size: 196, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 656, 116
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 730, 5
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 655, 25
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 496, 26
+  size: 172, 158
+  orig: 172, 158
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 765, 49
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 774, 87
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 738, 107
+  size: 119, 34
+  orig: 119, 34
+  offset: 0, 0
+  index: -1

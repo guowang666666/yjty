@@ -1,0 +1,48 @@
+
+kaibao.png
+size: 1273,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_guang
+  rotate: false
+  xy: 689, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+bao1
+  rotate: true
+  xy: 929, 304
+  size: 311, 342
+  orig: 311, 342
+  offset: 0, 0
+  index: -1
+bao2
+  rotate: true
+  xy: 2, 184
+  size: 311, 342
+  orig: 311, 342
+  offset: 0, 0
+  index: -1
+bao3
+  rotate: true
+  xy: 346, 187
+  size: 308, 341
+  orig: 308, 341
+  offset: 0, 0
+  index: -1
+gsu
+  rotate: false
+  xy: 2, 497
+  size: 925, 118
+  orig: 925, 118
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 2, 77
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1

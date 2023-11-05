@@ -1,0 +1,48 @@
+
+yaojizhilu.png
+size: 524,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 255, 79
+  orig: 255, 79
+  offset: 0, 0
+  index: -1
+jig
+  rotate: false
+  xy: 395, 5
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+sg
+  rotate: false
+  xy: 259, 6
+  size: 134, 75
+  orig: 134, 75
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 470, 37
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 511, 23
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 470, 10
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1

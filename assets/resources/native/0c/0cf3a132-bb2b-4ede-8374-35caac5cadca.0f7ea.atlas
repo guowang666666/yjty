@@ -1,0 +1,34 @@
+
+buff_wudi.png
+size: 394,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ccc
+  rotate: false
+  xy: 2, 13
+  size: 227, 216
+  orig: 227, 216
+  offset: 0, 0
+  index: -1
+dd
+  rotate: true
+  xy: 231, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 231, 67
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+gd
+  rotate: false
+  xy: 297, 5
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1

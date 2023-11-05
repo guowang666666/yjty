@@ -1,0 +1,27 @@
+
+buff_du.png
+size: 211,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingwu
+  rotate: false
+  xy: 2, 2
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+kulou
+  rotate: false
+  xy: 89, 18
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 157, 35
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+skill_024.png
+size: 246,834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui
+  rotate: false
+  xy: 2, 656
+  size: 181, 176
+  orig: 181, 176
+  offset: 0, 0
+  index: -1
+xl1
+  rotate: false
+  xy: 2, 517
+  size: 207, 137
+  orig: 207, 137
+  offset: 0, 0
+  index: -1
+xl2
+  rotate: false
+  xy: 2, 401
+  size: 226, 114
+  orig: 226, 114
+  offset: 0, 0
+  index: -1
+xl3
+  rotate: false
+  xy: 2, 269
+  size: 174, 130
+  orig: 174, 130
+  offset: 0, 0
+  index: -1
+xl4
+  rotate: false
+  xy: 2, 2
+  size: 170, 127
+  orig: 170, 127
+  offset: 0, 0
+  index: -1
+xl5
+  rotate: false
+  xy: 2, 131
+  size: 159, 136
+  orig: 159, 136
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 163, 131
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+eff_behit.png
+size: 634,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit1
+  rotate: false
+  xy: 556, 53
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+hit2
+  rotate: true
+  xy: 443, 14
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+hit3
+  rotate: true
+  xy: 330, 3
+  size: 126, 111
+  orig: 126, 111
+  offset: 0, 0
+  index: -1
+hit4
+  rotate: false
+  xy: 176, 14
+  size: 152, 115
+  orig: 152, 115
+  offset: 0, 0
+  index: -1
+hit5
+  rotate: false
+  xy: 2, 2
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1

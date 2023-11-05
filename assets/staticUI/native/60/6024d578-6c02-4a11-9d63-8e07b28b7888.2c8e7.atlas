@@ -1,0 +1,27 @@
+
+keshengji.png
+size: 304,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 62, 2
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 2, 36
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+sg
+  rotate: false
+  xy: 2, 12
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1

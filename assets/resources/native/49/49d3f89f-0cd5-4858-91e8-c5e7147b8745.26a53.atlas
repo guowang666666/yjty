@@ -1,0 +1,13 @@
+
+buff_024.png
+size: 56,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wh
+  rotate: false
+  xy: 2, 2
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1

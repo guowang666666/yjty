@@ -1,0 +1,76 @@
+
+role_020.png
+size: 99,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: true
+  xy: 2, 75
+  size: 35, 95
+  orig: 35, 95
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: false
+  xy: 2, 184
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: false
+  xy: 2, 112
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ss
+  rotate: true
+  xy: 52, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 26
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 52, 38
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 258
+  size: 92, 120
+  orig: 92, 120
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 76, 182
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 74, 112
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+zb
+  rotate: false
+  xy: 2, 6
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1

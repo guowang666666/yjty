@@ -1,0 +1,13 @@
+
+buff_beichaofeng.png
+size: 20,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ttt
+  rotate: false
+  xy: 2, 2
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1

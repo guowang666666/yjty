@@ -1,0 +1,27 @@
+
+fuangkuang.png
+size: 152,23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangx
+  rotate: false
+  xy: 2, 11
+  size: 109, 11
+  orig: 109, 11
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: false
+  xy: 113, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 134, 6
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+behit_003.png
+size: 830,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit1
+  rotate: false
+  xy: 708, 25
+  size: 120, 156
+  orig: 120, 156
+  offset: 0, 0
+  index: -1
+hit2
+  rotate: false
+  xy: 541, 8
+  size: 165, 173
+  orig: 165, 173
+  offset: 0, 0
+  index: -1
+hit3
+  rotate: false
+  xy: 185, 3
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+hit4
+  rotate: false
+  xy: 2, 3
+  size: 181, 178
+  orig: 181, 178
+  offset: 0, 0
+  index: -1
+hit5
+  rotate: true
+  xy: 367, 2
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+bullet_006.png
+size: 109,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan1
+  rotate: false
+  xy: 2, 170
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+huan12
+  rotate: false
+  xy: 2, 113
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+huan13
+  rotate: false
+  xy: 2, 55
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 230
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 2, 2
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1

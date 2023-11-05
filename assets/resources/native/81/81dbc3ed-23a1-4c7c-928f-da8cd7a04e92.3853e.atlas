@@ -1,0 +1,48 @@
+
+buff_037.png
+size: 61,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo1
+  rotate: false
+  xy: 2, 27
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 2, 98
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: false
+  xy: 2, 174
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: false
+  xy: 2, 256
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: true
+  xy: 33, 14
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: true
+  xy: 2, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

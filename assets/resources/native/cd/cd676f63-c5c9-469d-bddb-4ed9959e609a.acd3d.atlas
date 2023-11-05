@@ -1,0 +1,111 @@
+
+skill9.png
+size: 556,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 2, 186
+  size: 178, 177
+  orig: 178, 177
+  offset: 0, 0
+  index: -1
+gangsu
+  rotate: true
+  xy: 2, 110
+  size: 74, 312
+  orig: 74, 312
+  offset: 0, 0
+  index: -1
+huichen_1
+  rotate: false
+  xy: 316, 81
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+huichen_2
+  rotate: false
+  xy: 436, 66
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+huichen_3
+  rotate: false
+  xy: 2, 46
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+huichen_4
+  rotate: false
+  xy: 122, 46
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+huichen_5
+  rotate: false
+  xy: 242, 17
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+huichen_6
+  rotate: false
+  xy: 362, 2
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+ringsl_1
+  rotate: false
+  xy: 316, 145
+  size: 46, 218
+  orig: 46, 218
+  offset: 0, 0
+  index: -1
+ringsl_2
+  rotate: false
+  xy: 364, 145
+  size: 46, 218
+  orig: 46, 218
+  offset: 0, 0
+  index: -1
+ringsl_3
+  rotate: false
+  xy: 412, 145
+  size: 46, 218
+  orig: 46, 218
+  offset: 0, 0
+  index: -1
+xf_1
+  rotate: true
+  xy: 460, 248
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+xf_2
+  rotate: false
+  xy: 182, 186
+  size: 116, 90
+  orig: 116, 90
+  offset: 0, 0
+  index: -1
+xf_3
+  rotate: true
+  xy: 460, 130
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+xf_4
+  rotate: false
+  xy: 182, 280
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1

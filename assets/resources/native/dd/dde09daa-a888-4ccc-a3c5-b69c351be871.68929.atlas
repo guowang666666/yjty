@@ -1,0 +1,27 @@
+
+behit_014.png
+size: 61,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingwu
+  rotate: false
+  xy: 1, 37
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bk1
+  rotate: false
+  xy: 37, 23
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

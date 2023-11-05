@@ -1,0 +1,83 @@
+
+mskill.png
+size: 291,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiwu
+  rotate: false
+  xy: 161, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+baodian
+  rotate: true
+  xy: 161, 2
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+bingda
+  rotate: true
+  xy: 2, 80
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+bingx1
+  rotate: false
+  xy: 123, 44
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+bingx2
+  rotate: false
+  xy: 85, 7
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+bingx3
+  rotate: false
+  xy: 2, 8
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+bingx4
+  rotate: false
+  xy: 85, 28
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+dilie
+  rotate: false
+  xy: 2, 214
+  size: 255, 174
+  orig: 255, 174
+  offset: 0, 0
+  index: -1
+hontiao
+  rotate: false
+  xy: 2, 55
+  size: 100, 23
+  orig: 100, 23
+  offset: 0, 0
+  index: -1
+ring_sui
+  rotate: false
+  xy: 2, 390
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 45, 15
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

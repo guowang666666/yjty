@@ -1,0 +1,27 @@
+
+skill2.png
+size: 29,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gan
+  rotate: false
+  xy: 2, 161
+  size: 23, 120
+  orig: 23, 120
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 63
+  size: 23, 96
+  orig: 23, 96
+  offset: 0, 0
+  index: -1

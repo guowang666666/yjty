@@ -1,0 +1,55 @@
+
+behit_007.png
+size: 132,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_guang
+  rotate: false
+  xy: 2, 584
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bz_1
+  rotate: false
+  xy: 2, 487
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+bz_2
+  rotate: false
+  xy: 2, 390
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+bz_3
+  rotate: false
+  xy: 2, 293
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+bz_4
+  rotate: false
+  xy: 2, 196
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+bz_5
+  rotate: false
+  xy: 2, 99
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+bz_6
+  rotate: false
+  xy: 2, 2
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1

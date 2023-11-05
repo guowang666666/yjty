@@ -1,0 +1,111 @@
+
+skill5.png
+size: 186,1541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoz_1
+  rotate: false
+  xy: 2, 917
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+baoz_2
+  rotate: false
+  xy: 2, 799
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+baoz_3
+  rotate: false
+  xy: 2, 681
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+baoz_4
+  rotate: false
+  xy: 2, 563
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+baoz_5
+  rotate: false
+  xy: 2, 445
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+dilie
+  rotate: false
+  xy: 2, 1418
+  size: 182, 121
+  orig: 182, 121
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 2, 261
+  size: 90, 156
+  orig: 90, 156
+  offset: 0, 0
+  index: -1
+fire11
+  rotate: true
+  xy: 2, 1226
+  size: 91, 182
+  orig: 91, 182
+  offset: 0, 0
+  index: -1
+fire12
+  rotate: true
+  xy: 2, 88
+  size: 87, 150
+  orig: 87, 150
+  offset: 0, 0
+  index: -1
+fire13
+  rotate: true
+  xy: 2, 2
+  size: 84, 130
+  orig: 84, 130
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 2, 1035
+  size: 93, 167
+  orig: 93, 167
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: true
+  xy: 2, 1319
+  size: 97, 171
+  orig: 97, 171
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: true
+  xy: 2, 1130
+  size: 94, 167
+  orig: 94, 167
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: true
+  xy: 2, 353
+  size: 90, 165
+  orig: 90, 165
+  offset: 0, 0
+  index: -1
+fire9
+  rotate: true
+  xy: 2, 177
+  size: 82, 170
+  orig: 82, 170
+  offset: 0, 0
+  index: -1

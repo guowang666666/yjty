@@ -1,0 +1,90 @@
+
+role_016.png
+size: 142,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aix3
+  rotate: false
+  xy: 2, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+cf
+  rotate: true
+  xy: 92, 98
+  size: 138, 42
+  orig: 138, 42
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 2, 23
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 2, 56
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+jig
+  rotate: false
+  xy: 74, 17
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+jj1
+  rotate: true
+  xy: 67, 110
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+ss
+  rotate: true
+  xy: 108, 4
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 67, 44
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 146
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 59, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 121, 28
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+zb
+  rotate: false
+  xy: 28, 6
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1

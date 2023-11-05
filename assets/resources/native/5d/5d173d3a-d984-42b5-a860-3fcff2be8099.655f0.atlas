@@ -1,0 +1,27 @@
+
+skill7.png
+size: 324,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_guang
+  rotate: false
+  xy: 164, 78
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hontiao
+  rotate: false
+  xy: 2, 2
+  size: 320, 74
+  orig: 320, 74
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 78
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

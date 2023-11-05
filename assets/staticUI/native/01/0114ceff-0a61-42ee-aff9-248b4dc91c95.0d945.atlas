@@ -1,0 +1,27 @@
+
+guanghuan.png
+size: 131,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dds
+  rotate: true
+  xy: 2, 2
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 40
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+rd
+  rotate: false
+  xy: 2, 127
+  size: 119, 112
+  orig: 119, 112
+  offset: 0, 0
+  index: -1

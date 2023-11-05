@@ -1,0 +1,69 @@
+
+skill_040.png
+size: 678,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fklizi
+  rotate: false
+  xy: 495, 284
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+huichen1
+  rotate: true
+  xy: 562, 13
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+huichen2
+  rotate: true
+  xy: 495, 137
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+huichen3
+  rotate: false
+  xy: 409, 8
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+huichen4
+  rotate: false
+  xy: 256, 2
+  size: 151, 133
+  orig: 151, 133
+  offset: 0, 0
+  index: -1
+huichen5
+  rotate: true
+  xy: 362, 137
+  size: 153, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1
+huichen6
+  rotate: true
+  xy: 225, 137
+  size: 154, 135
+  orig: 154, 135
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 48
+  size: 252, 87
+  orig: 252, 87
+  offset: 0, 0
+  index: -1
+wu
+  rotate: false
+  xy: 2, 137
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
